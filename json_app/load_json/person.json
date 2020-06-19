@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Ashish Gudla",
+    "age": "21",
+    "height": "172",
+    "gender": "male",
+    "hair_color": "black"
+  },
+  {
+    "name": "Sohan Gudla",
+    "age": "15",
+    "height": "172",
+    "gender": "male",
+    "hair_color": "black"
+  },
+  {
+    "name": "Sridhar Gudla",
+    "age": "51",
+    "height": "173",
+    "gender": "male",
+    "hair_color": "white"
+  },
+  {
+    "name": "kavitha Gudla",
+    "age": "33",
+    "height": "12",
+    "gender": "male",
+    "hair_color": "black"
+  }
+]
